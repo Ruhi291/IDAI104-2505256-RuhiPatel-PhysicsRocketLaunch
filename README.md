@@ -166,4 +166,10 @@ The project reflects how mathematical modeling and AI-driven tools can be applie
 
 Student Name:  
 Course: Artificial Intelligence  
-Module: Mathematics for AI  
+Module: Mathematics for AI
+
+
+Streamlit link of the app:
+-https://idai104-2505256-ruhipatel-physicsrocketlaunch-ngwpmx3bf9vtkzxz.streamlit.app/
+
+-https://idai104-2505256-ruhipatel-physicsrocketlaunch-ngwpmx3bf9vtkzxz.streamlit.app/
